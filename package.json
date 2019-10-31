@@ -1,12 +1,12 @@
 {
-  "name": "ilovemycity-ejs-refactored",
+  "name": "ilovemycity-ejs",
   "version": "1.0.0",
-  "description": "Refactored I Love My City Application using EJS ",
+  "description": "I Love My City Application using EJS ",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "edureka",
+  "author": "swapnil palsapure",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.3.4",
